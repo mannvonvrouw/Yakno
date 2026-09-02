@@ -1,0 +1,21 @@
+html {
+  background: url(hyprland.png) repeat top left;
+}
+
+h1 {
+  color: darkslategray;
+  text-size: 40px;
+}
+
+#kewl-shite-2026-09-01-2037EST {
+  outline: 3px solid white;
+  outline-offset: 10px;
+  background: midnightblue;
+}
+
+p {
+  color: white;
+  text-size: 10px;
+}
+
+
